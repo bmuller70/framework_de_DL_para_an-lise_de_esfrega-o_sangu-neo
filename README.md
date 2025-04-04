@@ -1,4 +1,10 @@
-# Projeto de Mestrado: IA na Hematologia
+
+
+# Projeto de Mestrado: Desenvolvimento de um framework de redes neurais para análise de imagens de microscopia de esfregaço sanguíneo.
+![](primeiro_teste_yolov9.jpg)
+
+
+
 
 Quero compartilhar com minha rede um pouco mais sobre meu projeto de mestrado na **UFCSPA**: o desenvolvimento de um framework de **IA** para a análise automatizada de células sanguíneas em imagens microscópicas. Esse projeto é pessoalmente importante para mim e acredito que possa ter um impacto significativo na automação das análises clínicas, especialmente na hematologia.
 
