@@ -84,6 +84,15 @@ Acompanhe o progresso e participe desta jornada por **diagnósticos mais acessí
 
 ---
 
+## Sobre a imagem de capa
+
+A imagem de capa do projeto foi gerada utilizando a arquitetura YOLO9, que foi configurada a partir do repositório oficial disponível no GitHub e treinada com um conjunto de dados de células sanguíneas. O modelo foi utilizado para realizar detecção e classificação de diferentes tipos celulares em imagens microscópicas, produzindo predições com bounding boxes e rótulos diretamente sobre as imagens originais. O treinamento foi feito com datasets públicos, como os disponíveis no Kaggle e Nature Scientific Data, e o pipeline incluiu pré-processamento, ajuste de hiperparâmetros e visualização dos resultados por meio de inferência em tempo real. As configurações de implementação e parâmetros foram utilizadas no formato padrão indicados pela ferramenta. Você pode consultar o notebook [**clicando aqui**](YOLO_CELL_Blood+.ipynb).
+
+![](/img/Saida_Yolo.jpg)
+
+
+---
+
 # Referências
 
 Acevedo, Andrea; Merino, Anna; Alférez, Santiago; Molina, Ángel; Boldú, Laura; Rodellar, José (2020), “A dataset for microscopic peripheral blood cell images for development of automatic recognition systems”, Mendeley Data, V1, doi: 10.17632/snkd93bnjr.1
